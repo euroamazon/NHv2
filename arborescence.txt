@@ -1,0 +1,44 @@
+.
+├── app
+│   ├── config.php
+│   ├── config.sample.php
+│   ├── controllers
+│   │   ├── AuthController.php
+│   │   ├── DashboardController.php
+│   │   ├── DecompteController.php
+│   │   ├── InvoiceController.php
+│   │   ├── ProjectController.php
+│   │   └── SettingsController.php
+│   ├── core
+│   │   ├── Auth.php
+│   │   ├── Database.php
+│   │   ├── helpers.php
+│   │   └── Pdf.php
+│   ├── models
+│   │   ├── Decompte.php
+│   │   ├── Invoice.php
+│   │   ├── Phase.php
+│   │   ├── Project.php
+│   │   └── Settings.php
+│   └── views
+│       ├── layout_bottom.php
+│       └── layout_top.php
+├── arborescence.txt
+├── composer.json
+├── index.php
+├── installold
+│   └── index.php
+├── logo.png
+├── nh_cms_v2_pack.zip
+├── public
+│   ├── .htaccess
+│   ├── index.php
+│   ├── logo.png
+│   └── storage
+│       ├── .htaccess
+│       └── uploads
+│           └── logo_20260103_232944.png
+├── README_INSTALL.md
+└── schema.sql
+
+9 directories, 32 files
